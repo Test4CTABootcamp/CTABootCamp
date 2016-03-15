@@ -1,1 +1,1 @@
-A simple project to test GIT
+A simple project to test remote GIT
